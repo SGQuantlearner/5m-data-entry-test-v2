@@ -20,19 +20,19 @@ Task
 
 (a) What does the buggy version actually return for [1, 2, 3, 4, 5, 6, 8], and why?
 
-    Answer:
+    Answer: 3, because it counts the oldd number
 
 (b) Fix the bug. Write the corrected function below.
     (A one-character change is enough, but you must understand why.)
 """
 
 def count_evens(numbers):
-    # your corrected code here
+    if n % 2 == 0
     pass
 
 
 """
 (c) In one sentence, explain in plain English what `n % 2 == 0` checks.
 
-    Answer:
+    Answer: the number is divisible by 2 
 """
